@@ -1,7 +1,23 @@
-<!-- ================== TOP BANNER ================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffea,100:8a2be2&height=250&section=header&text=Ayush%20Vaishnav&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://raw.githubusercontent.com/ShreyamMaity/ShreyamMaity/master/assets/coding.gif" width="220"/>
 </p>
+
+<h1 align="center">👋 Hey, I'm Ayush Vaishnav</h1>
+<h3 align="center">💻 Full Stack Developer | JavaScript | React | Node | MongoDB</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00E8FF&center=true&vCenter=true&width=480&lines=I+build+web+apps+that+work+⚡;Full+Stack+Developer+%7C+MERN+Stack;JavaScript+%7C+React+%7C+Node+%7C+SQL;Problem+Solver+%7C+Tech+Enthusiast" />
+</p>
+
+<!-- Round DP -->
+<p align="center">
+  <img src="https://github.com/ayushvaishnav.png" width="170" style="border-radius:50%;border:3px solid #00ffc8;">
+</p>
+
+<hr>
+
 
 <!-- ============ TYPING ANIMATED SUB-HEADER ============ -->
 <p align="center">
