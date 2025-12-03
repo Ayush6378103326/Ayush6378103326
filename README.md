@@ -1,59 +1,68 @@
-<h1 align="center">⚡ Hey, I'm Ayush Vaishnav ⚡</h1>
-
+<!-- ================== TOP BANNER ================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffea,100:8a2be2&height=250&section=header&text=Ayush%20Vaishnav&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&animation=twinkling&fontColor=ffffff"/>
 </p>
 
-<h3 align="center">Full Stack Developer 🧩 | Cybersecurity Enthusiast 💀 | AI/ML Developer 🤖</h3>
+<!-- ============ TYPING ANIMATED SUB-HEADER ============ -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;MongoDB+%7C+SQL;Always+Learning+New+Things+⚡">
+  </a>
+</p>
+
+<!-- ============ PROFILE PICTURE ============ -->
+<p align="center">
+  <!-- Ye link tumhari GitHub DP ko use karega, sirf profile photo update rakhna -->
+  <img src="https://github.com/ayushvaishnav.png" width="200" height="200" style="border-radius:50%; border:3px solid #00ffc8;" />
+</p>
+
+<h3 align="center">☣️ Full Stack Developer | Problem Solver | Code Addict ☣️</h3>
 
 ---
 
-<p align="center">
-  <!-- Yaha tumhari GitHub profile DP automatically ajayegi -->
-  <img src="https://avatars.githubusercontent.com/u/0?v=4" width="210" height="210" style="border-radius:50%; border:3px solid #00ffea;">
-</p>
+## 👨‍💻 About Me
 
----
+- 🧑‍💻 I’m a **Full Stack Web Developer**  
+- 🧱 I work with **HTML5, CSS3, JavaScript, React, Node.js, Express, MongoDB (Mongoose), SQL**  
+- ⚙️ I like building **APIs, dashboards, auth systems, and real-world web apps**  
+- 🚀 Always improving my **DSA, clean code, and backend architecture**  
+- 🧩 Love fixing bugs, refactoring code, and learning new tools  
 
-## ☣️ About Me
-
-- 👨‍💻 Full Stack Developer (MERN + FastAPI)  
-- 🛡️ Cybersecurity + Malware Detection App Developer  
-- 🤖 AI/ML Projects: **JeevanAI, Fraud Call Detection, Packet Analyzer**  
-- 🔥 Passionate about building **smart, scalable & secure systems**  
-- 📱 Working on **Android Unrooted Network Packet Analyzer**  
-- 🚧 Currently exploring **LLMs + AI Automation**  
-
-📩 **Email:** ayushvaishnav637810@gmail.com  
+📧 **Email:** `ayushvaishnav637810@gmail.com`  
 🔗 **LinkedIn:** https://linkedin.com/in/ayush-vaishnav-12b703286  
 
 ---
 
-## 🧪 Toxic Tech Stack
+## 🧬 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,python,fastapi,mongodb,mysql,firebase,tailwind,bootstrap,git,github,linux,docker,kali,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 🕷️ Highlight Projects
+## 🏆 Achievements
 
-### ⚡ **AI-Based Malware Detection App**
-Detects malicious APK/files + phishing SMS using ML + heuristics.
-
-### ⚡ **JeevanAI – AI Healthcare + Mental Wellness**
-Symptom analysis, emotion detection, AI chatbot, medicine support.
-
-### ⚡ **Mobile Network Packet Analyzer (Unrooted)**
-Android packet sniffer for real-time analysis.
-
-### ⚡ **AI Fraud Call Detection**
-Voice-to-text + pattern detection → scam call alerts.
+- 🥇 **IIT Jammu – ISEA Hackathon Finalist**  
+- 🏅 Multiple **Hackathon Participant**  
+- 🎓 Completed **Full Stack Development Course (Udemy)**  
+- 🎓 Completed tech courses from **Fluent**  
+- 🔥 Built several **full stack projects** using React + Node + MongoDB + SQL  
 
 ---
 
-## 💀 Toxic GitHub Stats
+## 🚀 Featured Work (Full Stack Projects)
+
+> Yaha tum apne best projects ke naam + short line likh sakte ho.  
+> Baad me jab hum detail se likhenge to yaha links bhi add kar denge.
+
+- ⚡ **Project 1:** MERN based web app (auth, dashboard, responsive UI)  
+- ⚡ **Project 2:** Node + SQL backend with REST APIs  
+- ⚡ **Project 3:** React frontend with reusable components and dark theme  
+
+---
+
+## 📊 Toxic GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushvaishnav&theme=tokyonight" />
@@ -66,23 +75,15 @@ Voice-to-text + pattern detection → scam call alerts.
 
 ---
 
-## 🕶️ Achievements
+## 🏅 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushvaishnav&theme=dracula&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushvaishnav&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10">
 </p>
 
 ---
 
-## ⚔️ Snake Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🧨 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-vaishnav-12b703286">
@@ -95,5 +96,9 @@ Voice-to-text + pattern detection → scam call alerts.
 
 ---
 
-<h3 align="center">☠️ Thanks for visiting my toxic developer zone 😈  
-<br>Keep Coding… Keep Breaking Limits ⚡🔥</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<h3 align="center">☣️ Welcome to my coding zone.  
+<br>Typing… Compiling… Shipping Code ⚡</h3>
