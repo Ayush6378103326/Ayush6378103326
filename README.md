@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShreyamMaity/ShreyamMaity/master/assets/coding.gif" width="220"/>
+</p>
  
 
 <h1 align="center">👋 Hey, I'm Ayush Vaishnav</h1>
