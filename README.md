@@ -34,13 +34,7 @@
  
 <hr>
 
-
-<!-- ============ TYPING ANIMATED SUB-HEADER ============ -->
-<p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;MongoDB+%7C+SQL;Always+Learning+New+Things+⚡">
-  </a>
-</p>
+ 
 
 <!-- ============ PROFILE PICTURE ============ -->
 <p align="center">
