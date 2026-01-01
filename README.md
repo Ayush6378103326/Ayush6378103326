@@ -1,4 +1,29 @@
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ayush-vaishnav-12b703286">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="mailto:ayushvaishnav637810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<h3 align="center">☣️ Welcome to my coding zone.  
+<br>Typing… Compiling… Shipping Code ⚡</h3>
+
+
+
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShreyamMaity/ShreyamMaity/master/assets/coding.gif" width="220"/>
 </p>
@@ -70,8 +95,7 @@
 
 ## 🚀 Featured Work (Full Stack Projects)
 
-> Yaha tum apne best projects ke naam + short line likh sakte ho.  
-> Baad me jab hum detail se likhenge to yaha links bhi add kar denge.
+ 
 
 - ⚡ **Project 1:** MERN based web app (auth, dashboard, responsive UI)  
 - ⚡ **Project 2:** Node + SQL backend with REST APIs  
@@ -100,22 +124,4 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ayush-vaishnav-12b703286">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge">
-  </a>
-  <a href="mailto:ayushvaishnav637810@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<h3 align="center">☣️ Welcome to my coding zone.  
-<br>Typing… Compiling… Shipping Code ⚡</h3>
+ 
